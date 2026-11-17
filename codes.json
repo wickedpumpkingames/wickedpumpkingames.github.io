@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "codes": [
+    {
+      "h": "5539e6ca6c1c86273bfbe13f0d9028bcd5b5e471dc64077f80453cc5d3f3032b",
+      "give": "gold_10000",
+      "note": "Bag of Gold (first codes, Nov 2026)"
+    },
+    {
+      "h": "575bf552dd2a2ac21b98b08c26018f8b3737e60402075ffd0993e524408f9cfd",
+      "give": "talismans_10",
+      "note": "Pouch of Talismans (first codes, Nov 2026)"
+    },
+    {
+      "h": "ef192be2986b8f0c1dca75f53d5bae7c869f5d9be388ce9a28371c1553a1e4e1",
+      "give": "repair_coupons_10",
+      "note": "Bob’s Coupon Book (first codes, Nov 2026)"
+    },
+    {
+      "h": "475c463aa713696c213f655168f0e25738536510af71425a3e19f135ae7677e1",
+      "give": "res_tokens_5",
+      "note": "Resurrection Tokens (first codes, Nov 2026)"
+    },
+    {
+      "h": "bbcc10f86e9b11c76f23200faf66adfe74f434aa15238958255731482313ee80",
+      "give": "skin_pilgrim",
+      "until": "2027-01-31",
+      "note": "The Pilgrim look (Facebook, Thanksgiving 2026)"
+    },
+    {
+      "h": "73666f72dc5c5bc2c4203ebe86c756d4bc93db0b759235f8d47f3a904cf15b42",
+      "give": "skin_christmas",
+      "until": "2027-01-31",
+      "note": "Merry Keeper look (Facebook, Christmas 2026)"
+    }
+  ]
+}
